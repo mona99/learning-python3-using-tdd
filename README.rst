@@ -12,9 +12,14 @@ We'll speak about day to day good practices and show how use them.
 Content
 -------
 
+1. `Prerequisites and basics`_
 
 
 Contributions
 -------------
 
 Contributions are welcome, and can be done via pull requests.
+
+..
+
+.. _`Prerequisites and basics`: ./01__Basic
