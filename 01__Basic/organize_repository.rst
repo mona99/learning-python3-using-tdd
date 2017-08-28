@@ -139,7 +139,7 @@ This project will calculate square or circle areas.
 Hard
 ----
 Create a repository structure for a project which will have many code files.
-The project name is "hard_repo_medium", with these code subfolders:
+The project name is "basic_repo_hard", with these code subfolders:
 - git
 - git/github
 - git/gitlab
